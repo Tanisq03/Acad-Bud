@@ -48,8 +48,4 @@ Add one admin using postman and then you can login into admin panel and add stud
 
 ![image](https://github.com/krish-7104/College-Management-System/assets/95702005/1d7d25af-19ea-447d-b4b8-b7f8f341db98)
 
-## For Any Doubt Fell Free To Contact Me 🚀
 
-- [My Website](http://krishjotaniya.netlify.app/)
-- [Linkedin](https://www.linkedin.com/in/krishjotaniya/)
-- [krishjotaniya71@gmail.com](mailto:krishjotaniya71@gmail.com)
